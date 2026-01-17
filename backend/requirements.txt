@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+torch
+numpy
+scikit-learn
+google-generativeai
+python-multipart
+python-dotenv
+cors
